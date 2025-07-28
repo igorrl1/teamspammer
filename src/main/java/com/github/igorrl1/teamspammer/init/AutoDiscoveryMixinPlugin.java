@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.igorrl1.teamspammer.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
